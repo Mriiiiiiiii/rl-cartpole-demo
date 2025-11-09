@@ -68,7 +68,7 @@ The agent learns **through trial and error**, maximizing expected future reward.
 ```
 
 python -m venv .venv
-..venv\Scripts\activate.bat
+.\.venv\Scripts\activate.bat
 
 ```
 
@@ -148,4 +148,5 @@ A clean example of RL used in **gaming and control applications**.
 
 Feel free to fork or extend this project!
 ```
+
 
